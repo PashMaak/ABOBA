@@ -5,7 +5,7 @@ public class Main {
         int l = 0, r = 101;
         while (r > l + 1) {
             int m = (l + r) >> 1;
-
+//            ABOBA
             System.out.println("Are you olden then\t" + m + " years old human being? (Yes/No)");
             String ans = cin.nextLine();
 
